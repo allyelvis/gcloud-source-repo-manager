@@ -1,0 +1,23 @@
+{
+  "name": "gcloud-source-repo-manager",
+  "version": "1.0.0",
+  "description": "gcloud source repo manager",
+  "keywords": [
+    "gcloud"
+  ],
+  "homepage": "https://github.com/allyelvis/gcloud-source-repo-manager#readme",
+  "bugs": {
+    "url": "https://github.com/allyelvis/gcloud-source-repo-manager/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/allyelvis/gcloud-source-repo-manager.git"
+  },
+  "license": "MIT",
+  "author": "Ally Elvis Nzeyimana",
+  "type": "commonjs",
+  "main": "gcloud-source-repo-manager.sh",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
